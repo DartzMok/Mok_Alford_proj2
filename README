@@ -1,0 +1,30 @@
+# Project 02
+
+Ethan Mok (811-383-355),Jake Alford (810-160-836)
+    
+## Instructions
+
+To compile our code, type:
+
+```
+$ make compile
+```
+
+To run our code (after compiling it), type:
+
+```
+$ make run 
+```
+
+/To clean our code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+##Optional Quote(s)
+
+May the force be with you.
+Hodor.
+Zoey is Awesome!
+Hello there.
